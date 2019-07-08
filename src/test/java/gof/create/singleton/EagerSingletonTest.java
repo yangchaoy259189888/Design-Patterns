@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 class EagerSingletonTest {
 
     /**
+     *
      * 饿汉式单例模式测试
      */
     @Test
